@@ -128,8 +128,7 @@ aws configure
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/terraform-aws-ec2-infrastructure.git
-
+git clone https://github.com/shivamshekhawat/terraform-aws-ec2-infrastructure.git
 cd terraform-aws-ec2-infrastructure
 ```
 
