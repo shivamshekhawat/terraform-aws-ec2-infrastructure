@@ -1,0 +1,12 @@
+
+# AWS Region
+aws_region = "ap-south-1"
+
+# EC2 Instance Configuration
+instance_type = "t3.micro"
+
+# Project Configuration
+project_name = "terraform-ec2-project"
+
+# Deployment Environment
+environment = "dev"
